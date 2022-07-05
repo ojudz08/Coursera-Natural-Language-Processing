@@ -18,7 +18,7 @@ This specialization focuses on the state-of-the-art deep learning techniques suc
 * Encoder-decoder, Causal and Self-attention
   * To perform advanced machine translation of complete sentences, text summarization, question-answering, and to build chatbots. 
 
-## Four Courses
+### Four Courses
 
 * [Classification and Vector Spaces](https://github.com/ojudz08/Coursera-Natural-Language-Processing/tree/main/Classification%20and%20Vector%20Spaces)
 * [Probabilistic Models](https://github.com/ojudz08/Coursera-Natural-Language-Processing/tree/main/Probabilistic%20Models)
